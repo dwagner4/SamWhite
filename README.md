@@ -13,4 +13,5 @@
     ```
     http-server -c-1 -p 8082
     ```
-5. add a cat picture.
+5. you should be able to see the site at "localhost:8082"
+6. add a cat picture to the site.
